@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box
+}
+
+html {
+    background: url(//css-tricks.com/examples/OnePageResume/images/noise.jpg)
+}
+
+body {
+    margin: 9rem
+}
+
+div#resume {
+    margin-top: 100px;
+    min-width: 310px;
+    font: 16px Helvetica, Avernir, sans-serif;
+    line-height: 24px;
+    color: #000
+}
